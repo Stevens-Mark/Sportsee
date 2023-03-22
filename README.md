@@ -2,9 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5960d81c-ee20-4b01-b854-d1227e809ba0/deploy-status)](https://app.netlify.com/sites/sportsee2021/deploys)
 
-# OPENCLASSROOMS PROJECT 12 
-
-# SportSee
+# SportSee 
 
 Open website at [Sportsee](https://sportsee2021.netlify.app/)
 
@@ -64,7 +62,7 @@ Work on the new user profile page of the site. Use the Figma mock-ups and the Ka
 - Clone the Backend Api onto your computer :  
 `git clone https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard.git`
 or :  
-`git clone https://github.com/Stevens-Mark/P12-front-end-dashboard.git`
+`git clone https://github.com/Stevens-Mark/API-for-Sportsee.git`
 
 - Inside this repository, install the packages/dependencies : `yarn`
 
@@ -77,7 +75,7 @@ You will see the message `Magic happens on port 3000` in the terminal window.
 
 - Clone this repository onto your computer:
 
-  `git clone https://github.com/Stevens-Mark/stevens_mark_p12_08112021-.git`
+  `git clone https://github.com/Stevens-Mark/Sportsee.git`
 
 - Inside this repository, install the packages/dependencies: `yarn`
 
@@ -94,7 +92,6 @@ The App normally runs on http://localhost:3001/
 
 **Warning, currently only two users have been mocked. They have userId 12 and 18 respectively.**
 
-# OPENCLASSROOMS PROJET 12
 
 # SportSee
 
@@ -161,7 +158,7 @@ Travailler sur la nouvelle page de profil utilisateur du site. Utiliser les maqu
 
   `git clone https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard.git`
 ou :
-  `git clone https://github.com/Stevens-Mark/P12-front-end-dashboard.git`
+  `git clone https://github.com/Stevens-Mark/API-for-Sportsee.git`
 
 - Dans ce dépôt, installez les paquets/dépendances : `yarn`
 
@@ -174,7 +171,7 @@ Vous verrez le message `Magic happens on port 3000` dans la fenêtre du terminal
 
 - Clonez ce référentiel sur votre ordinateur :
 
-  `git clone https://github.com/Stevens-Mark/stevens_mark_p12_08112021-.git`
+  `git clone https://github.com/Stevens-Mark/Sportsee.git`
 
 - Dans ce dépôt, installez les paquets/dépendances : `yarn`
 
